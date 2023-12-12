@@ -21,8 +21,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Mat_Ui_Map_Tip01
-  m_Shader: {fileID: -6465566751694194690, guid: 55857f768189a844d8edb314b394d37f,
-    type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 55857f768189a844d8edb314b394d37f, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -104,6 +103,9 @@ Material:
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _UVSec: 0
+    - _Use_B: 0
+    - _Use_G: 0
+    - _Use_R: 0
     - _ZWrite: 1
     m_Colors:
     - _Color: {r: 1, g: 0.9166729, b: 0.26729542, a: 1}
