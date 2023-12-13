@@ -2,7 +2,16 @@ fileFormatVersion: 2
 guid: 0f8eb046cb367d24e9f3fd60375f2069
 ShaderImporter:
   externalObjects: {}
-  defaultTextures: []
+  defaultTextures:
+  - _Main_Tex: {instanceID: 0}
+  - _Tex_2: {instanceID: 0}
+  - _Diss_Noise: {instanceID: 0}
+  - _Turb_Noise: {instanceID: 0}
+  - _Mask: {instanceID: 0}
+  - _Vertex_offset: {instanceID: 0}
+  - unity_Lightmaps: {instanceID: 0}
+  - unity_LightmapsInd: {instanceID: 0}
+  - unity_ShadowMasks: {instanceID: 0}
   nonModifiableTextures: []
   userData: 
   assetBundleName: 
